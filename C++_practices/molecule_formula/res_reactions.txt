@@ -1,0 +1,5 @@
+H + ON3O2O O + HO + O> NN2O5O + H2
+H H + ON2NaO3O + Na> HH + ON2Na2O2O + O
+Li + Li + OO + Li + Li > LiLi2OO + Li
+C6H10H + OO7O O + HO + O3O O> OC6HH + O5O6O + H6
+
